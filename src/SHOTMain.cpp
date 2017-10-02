@@ -188,7 +188,7 @@ int main(int argc, char** argv)
 	vtkPolyData* mesh = LoadPolyData(params.datapath);
 	cleanPolyData(mesh);
 
-	if (mesh)
+    if (mesh->GetNumberOfPoints())
 	{
 		double meshRes = computeMeshResolution(mesh);
 
