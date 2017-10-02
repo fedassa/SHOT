@@ -7,7 +7,7 @@ SHOT is an implementation of the algorithms described in:
 * S. Salti, F. Tombari, L. Di Stefano, "SHOT: Unique Signatures of Histograms for Surface and Texture Description", Computer Vision and Image Understanding, May, 2014.
 
 SHOT has been developed by the Computer Vision Laboratory of the University of Bologna (http://www.vision.disi.unibo.it)
-Datasets used in the experiments reported in the papers are available at the SHOT project [offical page](http://vision.disi.unibo.it/research/80-shot)
+Datasets used in the experiments reported in the papers are available at the SHOT project [official page](http://vision.disi.unibo.it/research/80-shot)
 
 # Dependencies
 * OpenCV (3.0 and above)
