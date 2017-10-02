@@ -9,7 +9,7 @@ SHOT is an implementation of the algorithms described in
 SHOT has been developed by the Computer Vision Laboratory of the University of Bologna (http://www.vision.disi.unibo.it)
 Datasets used in the experiments reported in the papers are available at the SHOT project [offical page](http://vision.disi.unibo.it/research/80-shot)
 
-# Dependencies: 
+# Dependencies
 * OpenCV (3.0 and above)
 * VTK (5.10 and above)
 	
