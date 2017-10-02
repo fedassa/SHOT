@@ -13,8 +13,8 @@ SHOT has been developed by the Computer Vision Laboratory of the University of B
 * VTK (5.10 and above)
 	
 # Contacts
-* Samuele Salti mailto:samuele.salti@unibo.it
-* Federico Tombari mailto:federico.tombari@unibo.it
+* Samuele Salti [samuele.salti@unibo.it](mailto:samuele.salti@unibo.it)
+* Federico Tombari [federico.tombari@unibo.it](mailto:federico.tombari@unibo.it)
 
 	
 # License
