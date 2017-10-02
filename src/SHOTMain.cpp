@@ -73,8 +73,15 @@ struct CmdLineParams
 		rotationAxis[0] = 0.75f;
 		rotationAxis[1] = 0.1f;
 		rotationAxis[2] = 1-0.75f*0.75f-0.1f*0.1f;
-        datapath = "../../data/Mario.ply";
-        outputFile = "../../bin/shot.txt";
+
+#ifdef __linux__		
+		datapath = "../data/Mario.ply";
+		outputFile = "../bin/shot.txt";
+#else
+		datapath = "../../data/Mario.ply";
+		outputFile = "../../bin/shot.txt";
+#endif
+
 		nThreads = 0;
 	}
 
