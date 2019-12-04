@@ -4,6 +4,7 @@ FIND_PACKAGE(VTK 6.0 REQUIRED)
 if (VTK_VERSION VERSION_LESS "8.90.0")
   # old system
   include(${VTK_USE_FILE})
+endif()
 
 FIND_PACKAGE( OpenCV REQUIRED )
 
